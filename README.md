@@ -19,3 +19,7 @@
 
 <br />
 <br />
+
+### Things I have completed in regards to coding throughout my life:
+➡️ Basic HTML&HTML5 (freeCodeCamp)
+

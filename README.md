@@ -1,5 +1,5 @@
 
-### Hi there, I'm Chantele - aka [Chan/Channy] 👋
+### Hi there, I'm Chantele 👋
 ## I'm a university student, self-taught female coder and an adventurer!
 - 🔭 I’m currently trying to learn française. 
 - 🌱 I want to learn every coding languages 🤣
@@ -19,7 +19,3 @@
 
 <br />
 <br />
-
-### Things I have completed in regards to coding throughout my life:
-➡️ Basic HTML&HTML5 (freeCodeCamp)
-

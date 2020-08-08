@@ -1,6 +1,3 @@
-<!--
-**chanteleo/chanteleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Chantele - aka [Chan/Channy] 👋
 
 ## I'm a university student, self-taught female coder and an adventurer!
@@ -22,5 +19,3 @@
 
 <br />
 <br />
-
----

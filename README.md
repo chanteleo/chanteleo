@@ -1,4 +1,4 @@
-<img align="centre" alt="codeSTACKr.com" width="232" src="https://images.squarespace-cdn.com/content/v1/556e5c61e4b0a09f9d23f7da/1440451269658-K5HJEY1TVT1LWP7N762S/ke17ZwdGBToddI8pDm48kKUVAhw5ME9gEUds1XPzB0t7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWoFZRJt-4961snGgZl51L4aGYgctn5LVLYn4lcFrPLbWFBSN1y3TtFRXN7PNam9Wg/word-of-the-week-bonjour-calligraphy-watercolor.jpg" />
+
 ### Hi there, I'm Chantele - aka [Chan/Channy] 👋
 ## I'm a university student, self-taught female coder and an adventurer!
 - 🔭 I’m currently trying to learn française. 

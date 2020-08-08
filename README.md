@@ -2,7 +2,7 @@
 ### Hi there, I'm Chantele - aka [Chan/Channy] 👋
 ## I'm a university student, self-taught female coder and an adventurer!
 - 🔭 I’m currently trying to learn française. 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I want to learn every coding languages 🤣
 - ⚡ Fun fact: I love fashion, travelling and I used to own a DSI Browser which I made from scratch using MYSQL, HTML, PHP, CSS etc (6 years ago)
 
 ### Connect with me:

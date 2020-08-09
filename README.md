@@ -1,6 +1,8 @@
 
 ### Hi there, I'm Chantele 👋
-![alt text](https://i.pinimg.com/originals/1d/68/a3/1d68a3e39d333b14e6fbf5bc12a1e574.jpg)
+<p align="left">
+  <img src="https://i.pinimg.com/originals/82/72/a6/8272a6c22df647a57e9bfa766cf016bd.jpg" width="350" title="hover text">
+</p>
 ## I'm a university student, self-taught female coder and an adventurer!
 - 🔭 I’m currently trying to learn française. 
 - 🌱 I want to learn every coding languages 🤣

@@ -1,11 +1,4 @@
 
-### Hi there, I'm Chantele 👋
-## I'm a university student, self-taught female coder and an adventurer!
-- 🔭 I’m currently trying to learn française. 
-- 🌱 I want to learn every coding languages 🤣
-- ⚡ Fun fact: I love fashion, travelling and I used to own a DSI Browser which I made from scratch using MYSQL, HTML, PHP, CSS etc (6 years ago)
-- ✋ I work hard but play harder.
-
 >"You did not wake up today to be mediocre"
 
 ### Connect with me:
@@ -21,5 +14,3 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br />
-<br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=ALSO%20AN%20ANIME%20FAN&fontSize=20&" />

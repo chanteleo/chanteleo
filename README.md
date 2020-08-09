@@ -22,3 +22,4 @@
 
 <br />
 <br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=ALSO%20AN%20ANIME%20FAN&fontSize=20&" />

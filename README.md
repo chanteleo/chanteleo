@@ -4,6 +4,8 @@
 - 🔭 I’m currently trying to learn française. 
 - 🌱 I want to learn every coding languages 🤣
 - ⚡ Fun fact: I love fashion, travelling and I used to own a DSI Browser which I made from scratch using MYSQL, HTML, PHP, CSS etc (6 years ago)
+-✋ Being simple is what I do, work hard and play harder.
+>"You did not wake up today to be mediocre"
 
 ### Connect with me:
 
